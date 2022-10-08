@@ -18,7 +18,7 @@ end
 10.times do
     Power.create(
         name: Faker::Superhero.power,
-        description: Faker::Superhero.suffix   
+        description: Faker::Quote.jack_handey  
     ) 
     end
 
