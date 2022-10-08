@@ -3,17 +3,17 @@
 This is a rails api that handles associasions and validations
 
 
-* Ruby version
+* Ruby version: 
     ruby "2.7.4"
 
-* System dependencies
+* System dependencies:
 
-* Configuration
+* Configuration: 
     Bundle install
-* Database creation
+* Database creation: 
     Rails db:migrate db:seed
 
-* Deployment instructions
+* Deployment instructions: 
     Run rails s to start server
 
 * ...
